@@ -1,6 +1,6 @@
 # resources/STCNCHU/adapters.yaml
 adapters:
-  - adapter_id: "SSTCNCHU"
+  - adapter_id: "STCNCHU"
     adapter_name: "南昌航空大学科技学院强智教务"
     category: "BACHELOR_AND_ASSOCIATE"
     asset_js_path: "stcnchu.js"
