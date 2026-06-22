@@ -67,10 +67,10 @@ async function fetchAndParseJwData(academicYear, semesterIndex) {
     try {
         const semesterValue = parseInt(semesterIndex) + 1; 
         const endYear = parseInt(academicYear) + 1;
-        const planCode = `${academicYear}-${endYear}-${semesterValue}-2`;
+        const planCode = `${academicYear}-${endYear}-${semesterValue}-1`;
 
         AndroidBridge.showToast("正在获取教务数据...");
-        const response = await fetch("http://111.43.36.164/student/courseSelect/thisSemesterCurriculum/DrIy44e731/ajaxStudentSchedule/curr/callback", {
+        const response = await fetch("http://111.43.36.164/student/courseSelect/thisSemesterCurriculum/396Yg00r50/ajaxStudentSchedule/past/callback", {
             "headers": { "content-type": "application/x-www-form-urlencoded; charset=UTF-8" },
             "body": `&planCode=${planCode}`,
             "method": "POST",
