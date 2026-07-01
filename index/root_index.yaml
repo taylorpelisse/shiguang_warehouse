@@ -587,3 +587,8 @@ schools:
     name: "贵州大学"
     initial: "G"
     resource_folder: "GZU"
+
+  - id: "ZCMU"
+    name: "浙江中医药大学"
+    initial: "Z"
+    resource_folder: "ZCMU"
