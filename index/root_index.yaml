@@ -602,3 +602,8 @@ schools:
     name: "湖南师范大学"
     initial: "H"
     resource_folder: "HUNNU"
+
+  - id: "WHUT"
+    name: "武汉理工大学"
+    initial: "W"
+    resource_folder: "WHUT"  
