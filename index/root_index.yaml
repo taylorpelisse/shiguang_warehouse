@@ -597,3 +597,8 @@ schools:
     name: "青岛农业大学"
     initial: "Q"
     resource_folder: "QAU"
+
+  - id: "HUNNU"
+    name: "湖南师范大学"
+    initial: "H"
+    resource_folder: "HUNNU"
