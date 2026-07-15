@@ -632,3 +632,8 @@ schools:
     name: "青岛理工大学"
     initial: "Q"
     resource_folder: "QUT"
+
+  - id: "CSUFT"
+    name: "中南林业科技大学"
+    initial: "Z"
+    resource_folder: "CSUFT"
